@@ -1,0 +1,43 @@
+
+<#PSScriptInfo
+
+.VERSION 1.0.12
+
+.GUID 0bfb8474-b7ed-4178-b3ea-2273f787078f
+
+.AUTHOR Mansfield Public Schools
+
+.COMPANYNAME Mansfield Public Schools
+
+.COPYRIGHT
+
+.TAGS
+
+.LICENSEURI
+
+.PROJECTURI
+
+.ICONURI
+
+.EXTERNALMODULEDEPENDENCIES 
+
+.REQUIREDSCRIPTS
+
+.EXTERNALSCRIPTDEPENDENCIES
+
+.RELEASENOTES
+
+
+.PRIVATEDATA
+
+#>
+
+<# 
+
+.DESCRIPTION 
+ Reads the StudentDB and creates accounts for the GUIDs not found in AD. 
+
+#> 
+Param()
+
+
